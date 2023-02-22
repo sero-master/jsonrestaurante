@@ -1,0 +1,147 @@
+[
+    {
+      "id": 1,
+      "name": "Margarita",
+      "vegetariana": true,
+      "precio": 3,
+      "descripcion": "Pizza de Tomate y Queso",
+      "ingredientes": ["Mozzarella", "Tomate", "Albahaca fresca"],
+      "cantidad": 1,
+      "img": "https://i.postimg.cc/GmQMgZ44/margarita.jpg",
+      "medidayrelleno": [
+        {
+          "mediana": [
+            {
+              "precio": 3
+            }
+          ],
+          "medianabordequeso": [
+            {
+              "precio": 5
+            }
+          ],
+          "Grande": [
+            {
+              "precio": 8
+            }
+          ]
+        }
+      ]
+    },
+    {       
+       "id": 2,
+        "name": "Carbonara",
+        "vegetariana": false,
+        "precio": 6,
+        "descripcion": "Pizza con Salsa Carbonara",
+        "ingredientes": ["Salsa de Carbonara", "Nata", "Bacon"],
+        "cantidad": 1,
+        "img": "https://i.postimg.cc/j2y24Vs5/carbonaramejorada.jpg",
+        "medidayrelleno": [
+          {
+            "mediana": [
+              {
+                "precio": 6
+              }
+            ],
+            "medianabordequeso": [
+              {
+                "precio": 8
+              }
+            ],
+            "Grande": [
+              {
+                "precio": 10
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "name": "Pepperoni",
+        "vegetariana": false,
+        "precio": 3,
+        "descripcion": "Pizza de Pepperoni",
+        "ingredientes": ["Mozzarella", "Tomate", "Pepperoni"],
+        "cantidad": 1,
+        "img": "https://i.postimg.cc/261JLrCs/peperoni.jpg",
+        "medidayrelleno": [
+          {
+            "mediana": [
+              {
+                "precio": 5
+              }
+            ],
+            "medianabordequeso": [
+              {
+                "precio": 6
+              }
+            ],
+            "Grande": [
+              {
+                "precio": 7
+              }
+            ]
+          }
+        ]
+      },
+      { 
+        "id": 4,
+        "name": "La Suprema",
+        "vegetariana": false,
+        "precio": 12,
+        "descripcion": "Un sabor único e increíble",
+        "ingredientes": ["Pimiento Verde", "Aceitunas Negras", "Pollo", "Mozzarella", "Orégano"],
+        "cantidad": 1,
+        "img": "https://i.postimg.cc/FFJ89rWc/supreme.jpg",
+        "medidayrelleno": [
+          {
+            "mediana": [
+              {
+                "precio": 13
+              }
+            ],
+            "medianabordequeso": [
+              {
+                "precio": 14
+              }
+            ],
+            "Grande": [
+              {
+                "precio": 16
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "name": "Hawaiana",
+        "vegetariana": false,
+        "precio": 3,
+        "descripcion": "Pizza Hawaiana",
+        "ingredientes": ["Piña","Jamón Dulce","Mozzarela"],
+        "cantidad": 1,
+        "img": "https://i.postimg.cc/tJmGZ4LV/hawai.jpg",
+        "medidayrelleno": [
+          {
+            "mediana": [
+              {
+                "precio": 4
+              }
+            ],
+            "medianabordequeso": [
+              {
+                "precio": 6
+              }
+            ],
+            "Grande": [
+              {
+                "precio": 7
+              }
+            ]
+          }
+        ]
+      }
+    ]
