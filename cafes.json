@@ -1,0 +1,26 @@
+     [
+     {
+      "id": 1,
+      "name": "Capuccino",
+      "precio": 2,
+      "descripcion": "Cafe exquisito",
+      "img": "https://i.postimg.cc/qRXsQtLW/capuccino.jpg",
+      "cantidad": 1
+    },
+       {
+      "id": 2,
+      "name": "Latte Machiatto",
+      "precio": 2,
+      "descripcion": "Cafe exquisito",
+      "img": "https://i.postimg.cc/T2Kmp48Z/machiato.jpg",
+      "cantidad": 1
+    },
+         {
+      "id": 3,
+      "name": "Chococino",
+      "precio": 2,
+      "descripcion": "Cafe exquisito",
+      "img": "https://i.postimg.cc/3wWrnzZh/chococino.jpg",
+      "cantidad": 1
+    }
+    ]
