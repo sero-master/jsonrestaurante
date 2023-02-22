@@ -1,0 +1,58 @@
+[
+    {
+      "id": 1,
+      "name": "Tarta Tiramisu",
+      "precio": 3.40,
+      "descripcion": "Especialidad de la Casa",
+      "img": "https://i.postimg.cc/CKbdTBB1/tiramisu.jpg",
+      "cantidad": 1
+    },
+    {
+      "id": 2,
+      "name": "Brownie de Chocolate",
+      "precio": 2.30,
+      "descripcion": "Saborea el intenso sabor a Chocolate",
+      "img": "https://i.postimg.cc/zD7bGgdH/brownie.jpg",
+      "cantidad": 1
+    },
+    {
+      "id": 3,
+      "name": "Pannacota",
+      "precio": 2,
+      "descripcion": "Un postre delicioso para degustar",
+      "img": "https://i.postimg.cc/CxXfVpcv/pannacota.jpg",
+      "cantidad": 1
+    },
+    {
+      "id": 4,
+      "name": "Tarta Ichigo",
+      "precio": 6,
+      "descripcion": "Un bizococho de Nata y Fresas",
+      "img": "https://i.postimg.cc/8z0LP6zm/ichigo.jpg",
+      "cantidad": 1
+       }
+     ,{
+      "id": 5,
+      "name": "Capuccino",
+      "precio": 2,
+      "descripcion": "Cafe exquisito",
+      "img": "https://i.postimg.cc/qRXsQtLW/capuccino.jpg",
+      "cantidad": 1
+    },
+       {
+      "id": 6,
+      "name": "Latte Machiatto",
+      "precio": 2,
+      "descripcion": "Cafe exquisito",
+      "img": "https://i.postimg.cc/T2Kmp48Z/machiato.jpg",
+      "cantidad": 1
+    },
+         {
+      "id": 7,
+      "name": "Chococino",
+      "precio": 2,
+      "descripcion": "Cafe exquisito",
+      "img": "https://i.postimg.cc/3wWrnzZh/chococino.jpg",
+      "cantidad": 1
+    }
+  ]
