@@ -31,28 +31,4 @@
       "img": "https://i.postimg.cc/8z0LP6zm/ichigo.jpg",
       "cantidad": 1
        }
-     ,{
-      "id": 5,
-      "name": "Capuccino",
-      "precio": 2,
-      "descripcion": "Cafe exquisito",
-      "img": "https://i.postimg.cc/qRXsQtLW/capuccino.jpg",
-      "cantidad": 1
-    },
-       {
-      "id": 6,
-      "name": "Latte Machiatto",
-      "precio": 2,
-      "descripcion": "Cafe exquisito",
-      "img": "https://i.postimg.cc/T2Kmp48Z/machiato.jpg",
-      "cantidad": 1
-    },
-         {
-      "id": 7,
-      "name": "Chococino",
-      "precio": 2,
-      "descripcion": "Cafe exquisito",
-      "img": "https://i.postimg.cc/3wWrnzZh/chococino.jpg",
-      "cantidad": 1
-    }
   ]
