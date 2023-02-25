@@ -7,7 +7,7 @@
       "vegetariana": true,
       "precio": 3,
       "descripcion": "Pizza de Tomate y Queso",
-      "ingredientes": ["Mozzarella", "Tomate", "Albahaca fresca"],
+      "ingredientes": ["Mozzarella", "Tomate", "Albahaca"],
       "cantidad": 1,
       "img": "https://i.postimg.cc/GmQMgZ44/margarita.jpg",
       "medidayrelleno": [
