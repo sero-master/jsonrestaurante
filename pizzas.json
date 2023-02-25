@@ -94,7 +94,7 @@
         "vegetariana": false,
         "precio": 12,
         "descripcion": "Un sabor único e increíble",
-        "ingredientes": ["Pollo", "Mozzarella", "Orégano","Cebolla","Salsa Barbacoa"],
+        "ingredientes": ["Pollo", "Mozzarella", "Cebolla","Salsa barbacoa"],
         "cantidad": 1,
         "img": "https://i.postimg.cc/76RgsTww/Captura-desde-2023-02-24-13-07-05.png",
         "medidayrelleno": [
