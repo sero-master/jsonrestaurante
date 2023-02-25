@@ -152,7 +152,7 @@
         "vegetariana": false,
         "precio": 3,
         "descripcion": "Pizza Hawaiana",
-        "ingredientes": ["Piña","Jamón Dulce","Mozzarela"],
+        "ingredientes": ["Piña","Jamón Dulce","Mozzarela","Salsa Barbacoa"],
         "cantidad": 1,
         "img": "https://i.postimg.cc/tJmGZ4LV/hawai.jpg",
         "medidayrelleno": [
