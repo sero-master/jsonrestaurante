@@ -3,7 +3,7 @@
       "id": 1,
       "name": "Capuccino",
       "precio": 2.4,
-      "descripcion": "Cafe exquisito",
+      "descripcion": "Ideal para los amantes del café italiano",
       "img": "https://i.postimg.cc/9FThk5jT/capuccino.jpg",
       "cantidad": 1
     },
@@ -19,7 +19,7 @@
       "id": 3,
       "name": "Chococino",
       "precio": 4.30,
-      "descripcion": "Cafe exquisito",
+      "descripcion": "Cafe con sabor intenso a chocolate",
       "img": "https://i.postimg.cc/3wWrnzZh/chococino.jpg",
       "cantidad": 1
     }
