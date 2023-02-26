@@ -36,9 +36,9 @@
         "vegetariana": false,
         "precio": 6,
         "descripcion": "Pizza con Salsa Carbonara",
-        "ingredientes": ["Salsa de Carbonara", "Nata", "Bacon"],
+        "ingredientes": ["Salsa Carbonara","Bacon","Huevo"],
         "cantidad": 1,
-        "img": "https://i.postimg.cc/j2y24Vs5/carbonaramejorada.jpg",
+        "img": "https://i.postimg.cc/DyVcLc9v/carbonara.jpg",
         "medidayrelleno": [
           {
             "mediana": [
