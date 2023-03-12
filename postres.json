@@ -1,6 +1,6 @@
 [
     {
-      "id": 1,
+      "id": 7,
       "name": "Tarta Tiramisu",
       "precio": 3.40,
       "descripcion": "Especialidad de la Casa",
@@ -8,7 +8,7 @@
       "cantidad": 1
     },
     {
-      "id": 2,
+      "id": 8,
       "name": "Brownie de Chocolate",
       "precio": 2.30,
       "descripcion": "Saborea el intenso sabor a Chocolate",
@@ -16,7 +16,7 @@
       "cantidad": 1
     },
     {
-      "id": 3,
+      "id": 9,
       "name": "Pannacota",
       "precio": 2,
       "descripcion": "Un postre delicioso para degustar",
@@ -24,7 +24,7 @@
       "cantidad": 1
     },
     {
-      "id": 4,
+      "id": 10,
       "name": "Tarta Ichigo",
       "precio": 6,
       "descripcion": "Un bizococho de Nata y Fresas",
