@@ -1,6 +1,6 @@
      [
      {
-      "id": 1,
+      "id": 11,
       "name": "Capuccino",
       "precio": 2.4,
       "descripcion": "Ideal para los amantes del café italiano",
@@ -8,7 +8,7 @@
       "cantidad": 1
     },
        {
-      "id": 2,
+      "id": 12,
       "name": "Latte Machiatto",
       "precio": 3,
       "descripcion": "Cafe exquisito",
@@ -16,7 +16,7 @@
       "cantidad": 1
     },
          {
-      "id": 3,
+      "id": 13,
       "name": "Chococino",
       "precio": 4.30,
       "descripcion": "Cafe con sabor intenso a chocolate",
